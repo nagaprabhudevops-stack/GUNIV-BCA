@@ -3,7 +3,7 @@ package com.guniv.bca;
 public class App {
 
     public String greet(String name) {
-        return "Hello, " + name + "!";
+        return "Helloo, " + name + "!";
     }
 
     public static void main(String[] args) {
